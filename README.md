@@ -1,2 +1,2 @@
-# Exercicio_Js
- Exercicío onde inclui os numeros em um vetor, e ao clicar em finalizar, mostra media, maior, menor e a soma
+# Exercise_js
+Exercise where you include the numbers in a vector, and when you click finish, it shows mean, major, minor and the sum
